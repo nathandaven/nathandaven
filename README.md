@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working on PHP and MySQL features at Government Window, LLC.
-- 🌱  I’m currently learning SFML and C++ gamedev.
+- 🌱  I’m currently learning SDL and C++ gamedev.
 - 💬  Ask me about coffee :D
 - 📫  How to reach me: ndavenport3@gatech.edu
 - 😄  Pronouns: he/him!
