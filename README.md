@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on PHP and MySQL features at Government Window, LLC.
+- 🔭  I’m currently working on full-stack features (Front-end Web, PHP, MySQL) at Government Window, LLC.
 - 🌱  I’m currently learning SDL/C++ and Monogame/C# gamedev.
 - 💬  Ask me about coffee :D
 - 📫  How to reach me: ndavenport3@gatech.edu
