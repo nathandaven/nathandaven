@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on full-stack features (Front-end Web, PHP, MySQL) at Government Window, LLC.
-- 🌱  I’m currently learning SDL/C++ and Monogame/C# gamedev.
-- 💬  Ask me about coffee :D
+- 🔭  I’m currently creating front-end websites at Government Window, LLC.
+- 🌱  I’m currently learning ReactJS and Monogame/C# gamedev.
+- 💬  Ask me about coffee or beer :D
 - 📫  How to reach me: ndavenport3@gatech.edu
 - 😄  Pronouns: he/him!
 
