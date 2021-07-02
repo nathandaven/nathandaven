@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently creating front-end websites at Government Window, LLC.
-- 🌱  I’m currently learning ReactJS and Monogame/C# gamedev.
+- 🌱  I’m currently learning React/Next.JS and Monogame/C# gamedev.
 - 💬  Ask me about coffee or beer :D
 - 📫  How to reach me: ndavenport3@gatech.edu
 - 😄  Pronouns: he/him!
