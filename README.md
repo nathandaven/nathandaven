@@ -3,8 +3,8 @@
 ### Quick Facts:
 - Graduating May 2022 for Computational Media from Georgia Tech, with concentrations in Media (CS thread) and Interaction Design (Design thread)
 - Currently a Computing Teaching Assistant for CS 2261 at Georgia Tech, a hardware based C class using the GameBoy Advance.
-- How to reach me: ndavenport3@gatech.edu
 - My pronouns are he/him!
+- You can reach me at ndavenport3@gatech.edu or nathandaven@gmail.com.
 - Have a good day!!!! 😄
 
 
