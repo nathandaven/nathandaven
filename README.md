@@ -1,3 +1,14 @@
+### Welcome to my Github!
+
+# Quick Facts
+- Graduating May 2022 for Computational Media from Georgia Tech, with concentrations in Media (CS thread) and Interaction Design (Design thread)
+- Currently a Computing Teaching Assistant for CS 2261 at Georgia Tech, a hardware based C class using the GameBoy Advance.
+- How to reach me: ndavenport3@gatech.edu
+- My pronouns are he/him!
+- Have a good day :)))
+
+
+<!--
 ### Hi there 👋
 
 - 🔭  I’m currently a Computing Teaching Assistant for CS 2261 at Georgia Tech, a hardware based C class using the GameBoy Advance.
@@ -6,7 +17,6 @@
 - 📫  How to reach me: ndavenport3@gatech.edu
 - 😄  Pronouns: he/him!
 
-<!--
 **nathandaven/nathandaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
