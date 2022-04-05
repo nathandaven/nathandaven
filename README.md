@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently a Computing Teaching Assistant for CS 2261 at Georgia Tech, a hardware based C calss using the GameBoy Advance.
+- 🔭  I’m currently a Computing Teaching Assistant for CS 2261 at Georgia Tech, a hardware based C class using the GameBoy Advance.
 - 🌱  I’m currently learning React/Next.JS and Monogame/C# gamedev.
 - 💬  Ask me about coffee or beer :D
 - 📫  How to reach me: ndavenport3@gatech.edu
