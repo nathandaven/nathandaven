@@ -5,8 +5,7 @@
 - Currently a Computing Teaching Assistant for CS 2261 at Georgia Tech, a hardware based C class using the GameBoy Advance.
 - How to reach me: ndavenport3@gatech.edu
 - My pronouns are he/him!
-
-**Have a good day :)))**
+- Have a good day!!!! 😄
 
 
 <!--
