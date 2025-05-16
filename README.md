@@ -2,7 +2,7 @@ Software engineer with 3 years of experience building full-stack applications us
 Kubernetes. Currently at NCR Voyix. See my website at [nathandaven.com](https://nathandaven.com)! 🤞
 
 #### Current Role
-- **NCR Voyix** – Software Engineer II – Oct. 2023 - Present
+- **NCR Voyix** – Software Engineer II (Oct. 2023 - Present)
 
 #### Previous Roles
 - **NCR Corporation** – Software Engineer I (June 2022 - Oct. 2023)
