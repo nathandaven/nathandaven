@@ -1,5 +1,5 @@
 Software engineer with 3 years of experience building full-stack applications using TypeScript, React, and
-Kubernetes. Currently at NCR Voyix. See my website at [nathandaven.com](https://nathandaven.com)! 🤞
+Kubernetes. Currently at NCR Voyix. See my website at [dev.nathandaven.com](https://dev.nathandaven.com)! 🤞
 
 #### Current Role
 - **NCR Voyix** – Software Engineer II (Oct. 2023 - Present)
