@@ -1,5 +1,3 @@
-![headershort](https://github.com/user-attachments/assets/03bf81d5-a048-4a11-9d40-0f2da5abc6ff)
-
 Software engineer with 3 years of experience building full-stack applications using TypeScript, React, and
 Kubernetes. Currently at NCR Voyix. See my website at [nathandaven.com](https://nathandaven.com)! 🤞
 
