@@ -1,10 +1,11 @@
-Software engineer with 3 years of experience building full-stack applications using TypeScript, React, and
-Kubernetes. Currently at NCR Voyix. See my website at [dev.nathandaven.com](https://dev.nathandaven.com)! 🤞
+Software engineer with 3+ years of experience building full-stack applications using TypeScript, React, and
+Kubernetes. Currently at ECP. See my developer portfolio at [dev.nathandaven.com](https://dev.nathandaven.com)! 🤞
 
 #### Current Role
-- **NCR Voyix** – Software Engineer II (Oct. 2023 - Present)
+- **ECP** – Senior Software Engineer (July 2025 - Present)
 
 #### Previous Roles
+- **NCR Voyix** – Software Engineer II (Oct. 2023 - Present)
 - **NCR Corporation** – Software Engineer I (June 2022 - Oct. 2023)
 - **Georgia Institute of Technology** – CS 2261 Teaching Assistant (Aug. 2021 - May 2022)
 - **Government Window, LLC.** – Software Engineering Intern (Jan. 2021 - Aug. 2021)
