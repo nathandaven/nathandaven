@@ -1,5 +1,9 @@
 ## I am in the progress of migrating to [codeberg.org](https://codeberg.org/nathandaven)
 
+I have left a few repositories and forks up here, but the majority of my public repos are now at https://codeberg.org/nathandaven. Thanks for stopping by!
+
+## About Me
+
 Software engineer with 3+ years of experience building full-stack applications using TypeScript, React, and
 Kubernetes. Currently at ECP. See my developer portfolio at [dev.nathandaven.com](https://dev.nathandaven.com)! 🤞
 
