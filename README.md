@@ -1,3 +1,5 @@
+## I am in the progress of migrating to [codeberg.org](https://codeberg.org/nathandaven)
+
 Software engineer with 3+ years of experience building full-stack applications using TypeScript, React, and
 Kubernetes. Currently at ECP. See my developer portfolio at [dev.nathandaven.com](https://dev.nathandaven.com)! 🤞
 
