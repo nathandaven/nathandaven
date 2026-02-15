@@ -4,9 +4,9 @@
 ## About Me
 
 Software engineer with ~5 years of technical experience, mostly building full-stack applications using **TypeScript**, **React**, and
-**Kubernetes**. Currently at [ECP](https://www.ecp123.com/), working on a next-gen clinical product. 
+**Kubernetes**. Currently at **[ECP](https://www.ecp123.com/)**, working on a next-gen clinical product. 
 
-#### Professional Experience
+#### Roles
 - **ECP** – Senior Software Engineer (July 2025 - Present)
 - **NCR Voyix** _(Formerly NCR Corporation)_ – Software Engineer II (Oct. 2023 - July 2025)
 - **NCR Corporation** – Software Engineer I (June 2022 - Oct. 2023)
