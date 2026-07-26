@@ -1,4 +1,4 @@
-Software engineer with ~5 years of technical experience building **full-stack applications** (_Typescript_, _React_, _Golang_) and **microservice architectures** (_Docker_, _Kubernetes_), and for fun dabbling in **game-dev** (_C_, _Raylib_)! 
+Software engineer with ~5 years of technical experience building **full-stack applications** (_mostly_ _Typescript_, _React_, _NestJS_) and **event-driven microservices** (_Kubernetes_, _BFFs_, _MQTT_, _etc_), as well as dabbling in **game-dev** (_C_, _Raylib_) and **homelabbing** (_IaC_, _GitOps_)! 
 
 - **ECP**: Senior Software Engineer (_July 2025 - Present_)
 - **NCR Voyix** _(formerly NCR Corporation)_: Software Engineer II (_Oct. 2023 - July 2025_)
