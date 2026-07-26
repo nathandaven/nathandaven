@@ -8,4 +8,4 @@ Software engineer with ~5 years of technical experience building **full-stack ap
 - **Georgia Institute of Technology**: B.S. in Computational Media (_Grad. May 2022_)
 
 > [!NOTE] 
-> I am using **[Codeberg](https://codeberg.org/nathandaven)** for all future public repositories (_non-forks_) and my self-hosted **[Forgejo](https://forgejo.org/)** instance for private repositories, as I am looking to minimize my usage of this platform. Thank you!
+> I am using **[Codeberg](https://codeberg.org/nathandaven)** for all future public repositories (_non-forks_) and my self-hosted **[Forgejo](https://forgejo.org/)** instance for private repositories to minimize my usage of this platform. Thank you!
