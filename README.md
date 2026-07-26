@@ -7,5 +7,5 @@ Software engineer with ~5 years of technical experience building **full-stack ap
 - **Government Window, LLC.**: Software Engineering Intern (_Jan. 2021 - Aug. 2021_)
 - **Georgia Institute of Technology**: B.S. in Computational Media (_Grad. May 2022_)
 
-> [!NOTE] https://github.com/nathandaven/nathandaven/blob/main/README.md
+> [!NOTE]
 > I am using **[Codeberg](https://codeberg.org/nathandaven)** for all future public repositories (_non-forks_) and my self-hosted **[Forgejo](https://forgejo.org/)** instance for private repositories to minimize usage of this platform. Thank you!
