@@ -1,4 +1,4 @@
-Software engineer with ~5 years of technical experience building **full-stack applications** (_mostly_ _Typescript_, _React_, _NestJS_, _Golang_) and **event-driven microservices** (_K8s_, _BFFs_, _MQTT_), as well as dabbling in **game-dev** (_C_, _Raylib_) and **homelabbing**! 
+Software engineer with ~6 years of technical experience.
 
 - **ECP**: Senior Software Engineer (_July 2025 - Present_)
 - **NCR Voyix** _(formerly NCR Corporation)_: Software Engineer II (_Oct. 2023 - July 2025_)
@@ -8,4 +8,4 @@ Software engineer with ~5 years of technical experience building **full-stack ap
 - **Government Window, LLC.**: Software Engineering Intern (_Jan. 2021 - Aug. 2021_)
 
 > [!NOTE]
-> I am using **[Codeberg](https://codeberg.org/nathandaven)** for all future public repositories (_non-forks_) and my self-hosted **[Forgejo](https://forgejo.org/)** instance for private repositories to minimize usage of **[GitHub](https://github.com/nathandaven)**. Thank you!
+> I use **[Codeberg](https://codeberg.org/nathandaven)** for non-LLM work and my self-hosted **[Forgejo](https://forgejo.org/)** instance for private repositories (most of my work). GitHub is only for forks and public work (usually I mirror from Frogejo).
